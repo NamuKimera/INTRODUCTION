@@ -1,4 +1,4 @@
-- 👋 Hi, Hi, I'm Namu Kimera @NamuQuimera, I'm 19 years old.
+- 👋 Hi, I'm Namu Kimera @NamuQuimera, I'm 19 years old.
 - 👀 I am interested in manga and programming
 - 🌱 I’m currently learning C# and Python
 - 📫 How to reach me: (Namuquimera@gmail.com)
