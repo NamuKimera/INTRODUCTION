@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Namu Kimera, I'm 19 years old.
+- 👋 Hi, I'm Namu Kimera, I'm 20 years old.
 - 👀 I am interested in manga and programming
-- 🌱 I’m currently learning C#, C++, GDScript and Python
+- 🌱 I’m currently learning GDScript and Python
 - 📫 How to reach me: (Namuquimera@gmail.com)
 
 <!---
